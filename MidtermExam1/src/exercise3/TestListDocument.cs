@@ -16,7 +16,8 @@ public class TestListDocument
         {
             new Document(1, "Lich su phong kien", new List<string> { "Nguyen Van An" }, "Lich Su", "MS_Powerpoint"),
             new Document(2, "Toan cao cap", new List<string> { "Le Van Luong", "Nguyen Van An" }, "Toan hoc", "Latex"),
-            new Document(3, "Dao dông co", new List<string> { "Le Van Luong", "Tran Thi Tac Gia", "Ngo Van Tung" }, "Vat ly", "Latex"),
+            new Document(3, "Dao dông co", new List<string> { "Le Van Luong", "Tran Thi Tac Gia", "Ngo Van Tung" },
+                "Vat ly", "Latex"),
             new Document(4, "Dia ly Viet Nam", new List<string> { "Tran Thi Tac Gia", "Ngo Van Tung" }, "Dia ly",
                 "MS_Word"),
             new Document(5, "Van hoc hien dai",
